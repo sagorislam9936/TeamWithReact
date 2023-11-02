@@ -9,7 +9,7 @@ import "./Learn.css";
 const Learn = () => {
   return (
     <div>
-      <Container className="  allCenter bg-danger ">
+      <Container className="  allCenter bg-danger py-3">
       <Container className="w-75 ">
        
         <div >
@@ -20,7 +20,7 @@ const Learn = () => {
                 <Card className="gap-5  h-100 rounde  hvr">
                   <h5>
                     <img
-                      src="public/Screenshot 2023-07-14 234708.png"
+                      src="/Screenshot 2023-07-14 234708.png"
                       alt=""
                       className="pic"
                     />
@@ -39,7 +39,7 @@ const Learn = () => {
                 <Card className="gap-5  h-100 rounde  hvr">
                   <h5>
                     <img
-                      src="public/Screenshot 2023-07-14 234708.png"
+                      src="/Screenshot 2023-07-14 234708.png"
                       alt=""
                       className="pic"
                     />
@@ -58,7 +58,7 @@ const Learn = () => {
                 <Card className="gap-5  h-100 rounde  hvr">
                   <h5>
                     <img
-                      src="public/Screenshot 2023-07-14 234708.png"
+                      src="/Screenshot 2023-07-14 234708.png"
                       alt=""
                       className="pic"
                     />
@@ -77,7 +77,7 @@ const Learn = () => {
                 <Card className="gap-5   rounde hvr">
                   <h5>
                     <img
-                      src="public/Screenshot 2023-07-14 234708.png"
+                      src="/Screenshot 2023-07-14 234708.png"
                       alt=""
                       className="pic "
                     />
