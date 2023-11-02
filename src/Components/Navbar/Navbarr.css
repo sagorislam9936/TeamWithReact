@@ -1,0 +1,30 @@
+.bg {
+  background-image: linear-gradient(
+    rgb(191, 180, 225),
+    rgb(170, 170, 126),
+    rgb(222, 232, 158)
+  );
+}
+.text:hover {
+  color: black;
+  border-radius: 40px;
+  margin-right: 10px;
+  background-color: rgb(122, 169, 169);
+}
+
+.nav {
+  margin: auto;
+  font-size: 20px;
+}
+
+.team {
+  color: red;
+  font-size: 30px;
+}
+
+.team:hover {
+  border: 1px solid green;
+  border: none;
+  background-image: linear-gradient(red, yellow, rgb(79, 175, 79));
+  border-radius: 50px;
+}

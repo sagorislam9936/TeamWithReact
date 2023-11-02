@@ -1,0 +1,18 @@
+.bg2{
+    background-color: blue;
+    border-radius: 20px;
+}
+.text-bold2{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+.roundeed{
+    font-size: 22px;
+    border-radius: 50px;
+    border: none;
+    margin: 5px;
+}
+.btnBg{
+    background-color: rgb(206, 62, 86);
+}

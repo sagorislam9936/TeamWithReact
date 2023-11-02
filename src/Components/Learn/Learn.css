@@ -1,0 +1,25 @@
+.pic {
+  border-radius: 200px;
+  width: 70px;
+  padding-bottom: 0;
+  padding-top: 15px;
+}
+
+.allCenter {
+  text-align: center;
+}
+.rounde {
+  margin: 10px;
+  border-radius: 50px;
+}
+.hvr {
+  box-shadow: 1px 2px 10px green;
+}
+.hvr:hover {
+  background-color: aqua;
+}
+.btn {
+  background-color: rgb(0, 255, 204);
+  color: black;
+  border-radius: 50px;
+}
